@@ -10,7 +10,7 @@
 [我的網頁](https://hsiung-shao.github.io/)  
 https://hsiung-shao.github.io/   
 
-![Hsiung-Shao](https://github.com/Hsiung-Shao/Hsiung-Shao.github.io/blob/main/image/image01.jpg)
+![](https://github.com/Hsiung-Shao/Hsiung-Shao.github.io/blob/main/image/image01.jpg)
 
 ## Welcome to GitHub Pages
 
